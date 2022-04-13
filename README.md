@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Jean Rondón</h1>
 <h3 align="center">Soy un desarrollador web apasionado del Front End, también amante de diseñar paginas u otras cosas y siempre que puedo intento aprender nuevas tecnologías. Estoy buscando formar parte de un proyecto o empresa que me permita dejar mi marca en la web y me haga crecer profesionalmente.</h3>
 
-- 💬 Ask me about **html, css y javascript**
+- 💬 Ask me about **html, css, javascript and more...**
 
 - 📫 How to reach me **jeanrdev@gmail.com**
 
