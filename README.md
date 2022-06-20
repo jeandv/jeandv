@@ -1,4 +1,4 @@
-![github-header-image (2)](https://user-images.githubusercontent.com/90219458/174543924-b1dcd76d-0286-440f-ab9e-99c302c53941.png)
+![github-header-image (4)](https://user-images.githubusercontent.com/90219458/174544249-529e05e3-74ed-4684-a1a7-5640dd05abf7.png)
 
 <h1 align="center">Hola 👋, Me llamo Jean Rondón</h1>
 <h3 align="center">Soy un desarrollador web apasionado del Front End, también amante de diseñar paginas u otras cosas y siempre que puedo intento aprender nuevas tecnologías.</h3>
