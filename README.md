@@ -3,7 +3,9 @@
 Hi 👋 My name is Jean Rondón
 ============================
 
-Soy un desarrollador web apasionado del Frontend, también amante de diseñar paginas u otras cosas y siempre que puedo intento aprender nuevas tecnologías. I am a web developer passionate about Frontend, also a lover of designing pages or other things and whenever I can I try to learn new technologies.
+Soy un desarrollador web apasionado del Frontend, también amante de diseñar paginas u otras cosas y siempre que puedo intento aprender nuevas tecnologías. 
+
+I am a web developer passionate about Frontend, also a lover of designing pages or other things and whenever I can I try to learn new technologies.
 
 * 🌍  I'm based in Venezuela
 * 🖥️  See my portfolio at [jeandv.vercel.app](http://jeandv.vercel.app)
