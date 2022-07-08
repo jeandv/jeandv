@@ -1,8 +1,5 @@
 ![github-header-image (4)](https://user-images.githubusercontent.com/90219458/174544249-529e05e3-74ed-4684-a1a7-5640dd05abf7.png)
 
-Hi 👋 My name is Jean Rondón
-============================
-
 Soy un desarrollador web apasionado del Frontend, también amante de diseñar paginas u otras cosas y siempre que puedo intento aprender nuevas tecnologías. 
 
 I am a web developer passionate about Frontend, also a lover of designing pages or other things and whenever I can I try to learn new technologies.
