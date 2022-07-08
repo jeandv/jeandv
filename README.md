@@ -35,13 +35,13 @@ I am a web developer passionate about Frontend, also a lover of designing pages 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.jeanr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeandv) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xrayba) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/r4yb4) 
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/jeandv"><img src="https://activity-graph.herokuapp.com/graph?username=jeandv&bg_color=000000&color=64748b&line=6366f1&point=64748b&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/jeandv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeandv&langs_count=10&title_color=6366f1&text_color=64748b&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![](https://github-readme-stats.vercel.app/api?username=jeandv&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jeandv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
