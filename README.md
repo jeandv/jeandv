@@ -7,7 +7,6 @@ I am a web developer passionate about Frontend, also a lover of designing pages 
 * 🌍  I'm based in Venezuela
 * 🖥️  See my portfolio at [jeandv.vercel.app](http://jeandv.vercel.app)
 * ✉️  You can contact me at [jeanrdev@gmail.com](mailto:jeanrdev@gmail.com)
-* 🧠  I'm learning Angular & Ionic
 * 🤝  I'm open to collaborating on freelance projects
 
 ### Skills
