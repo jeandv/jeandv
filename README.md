@@ -43,5 +43,8 @@ I am a web developer passionate about Frontend, also a lover of designing pages 
 
 <a href="https://github.com/jeandv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeandv&langs_count=10&title_color=6366f1&text_color=64748b&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-  ## 💰 You can help me by Donating
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jeandv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+  ## You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jeanrond0n) 
