@@ -1,13 +1,6 @@
-![github-header-image (4)](https://user-images.githubusercontent.com/90219458/174544249-529e05e3-74ed-4684-a1a7-5640dd05abf7.png)
-
 Soy un desarrollador web apasionado del Frontend, también amante de diseñar paginas u otras cosas y siempre que puedo intento aprender nuevas tecnologías. 
 
 I am a web developer passionate about Frontend, also a lover of designing pages or other things and whenever I can I try to learn new technologies.
-
-* 🌍  I'm based in Venezuela
-* 🖥️  See my portfolio at [jeandv.vercel.app](http://jeandv.vercel.app)
-* ✉️  You can contact me at [jeanrdev@gmail.com](mailto:jeanrdev@gmail.com)
-* 🤝  I'm open to collaborating on freelance projects
 
 ### Skills
 
