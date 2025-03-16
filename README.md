@@ -5,9 +5,9 @@
 - 👨‍💻 &nbsp; Visit my [Portfolio](https://jeanrondon.is-a.dev) and my [CV](https://rxresu.me/jeandv/cv-jean-rondon)
 - 💬 &nbsp; Ask me anything jeanrdev@gmail.com
 
-# Skills
+## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://skillicons.dev)
 
 <div align="mid">
   <img src="https://github-readme-stats.vercel.app/api?username=jeandv&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="35%" />
