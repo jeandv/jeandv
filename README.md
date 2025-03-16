@@ -7,7 +7,7 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,zustand,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind)](https://skillicons.dev)
 
 <div align="mid">
   <img src="https://github-readme-stats.vercel.app/api?username=jeandv&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="35%" />
