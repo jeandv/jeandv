@@ -13,6 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeandv&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="35%" />
 </div>
 
-## Visit my linkedin
+## Contact me
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jeanrondon)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jeanrondon)
