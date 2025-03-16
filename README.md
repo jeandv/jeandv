@@ -5,7 +5,7 @@
 - 👨‍💻 &nbsp; Visit my [Portfolio](https://jeanrondon.is-a.dev) and my [CV](https://rxresu.me/jeandv/cv-jean-rondon)
 - 💬 &nbsp; Ask me anything jeanrdev@gmail.com
 
-## Skills
+### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://skillicons.dev)
 
