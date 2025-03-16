@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🛠 &nbsp; I’m currently working with Typescript, React.js, Next.js, Tailwind
+- 🛠 &nbsp; I’m currently working as a Frontend Dev with Typescript, React.js, Next.js, Tailwind
 - 🚀 &nbsp; I’m currently exploring Electronic with Arduino and C++, DevOps (AWS, Docker, Kubernetes, etc), React Native, Three.js
-- 👨‍💻 &nbsp; Visit my [Portfolio](https://jeanrondon.is-a.dev)!
-- 📄 &nbsp; My [CV](https://rxresu.me/jeandv/cv-jean-rondon)!
+- 👨‍💻 &nbsp; Visit my [Portfolio](https://jeanrondon.is-a.dev)! and my [CV](https://rxresu.me/jeandv/cv-jean-rondon)!
 - 💬 &nbsp; Ask me anything jeanrdev@gmail.com
 
 <div align="mid">
