@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🛠 &nbsp; I’m currently working with Unity, C++, C#, TS.
-- 🚀 &nbsp; I’m currently exploring Unreal, React, etc.
-- ❤️ &nbsp; Anime, Illust, Game, Coding, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/Snow0406/Snow0406/issues/2)!
-- ✨ &nbsp; Currently working on: Rene, Marigold
+- 🛠 &nbsp; I’m currently working with Typescript, React.js, Next.js, Tailwind
+- 🚀 &nbsp; I’m currently exploring Electronic with Arduino and C++, DevOps (AWS, Docker, Kubernetes, etc), React Native, Three.js
+- 👨‍💻 &nbsp; Visit my [Portfolio](https://jeanrondon.is-a.dev)!
+- 📄 &nbsp; My [CV](https://rxresu.me/jeandv/cv-jean-rondon)!
+- 💬 &nbsp; Ask me anything jeanrdev@gmail.com
 
 <div align="mid">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snow0406&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="35%" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=winteryuki" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeandv&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="35%" />
 </div>
