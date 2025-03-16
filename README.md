@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 - 🛠 &nbsp; I’m currently working as a Frontend Dev with Typescript, React.js, Next.js, Tailwind
 - 🚀 &nbsp; I’m currently exploring Electronic with Arduino and C++, DevOps (AWS, Docker, Kubernetes, etc), React Native, Three.js
