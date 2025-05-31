@@ -1,6 +1,6 @@
-- 🛠 &nbsp; I’m currently working as a <strong>Frontend Developer</strong> with Typescript, React.js, Next.js, Redux, Zustand, Tailwind
-- 🚀 &nbsp; Exploring Electronic and Robotic using Arduino, DevOps by doing projects (AWS, Docker, Kubernetes, Jenkins, Terraform)
-- 👨‍💻 &nbsp; Visit my [Portfolio](https://jeanrondon.is-a.dev) and my [CV](https://rxresu.me/jeandv/cv-jean-rondon)
+- 🛠 &nbsp; I’m currently working as a <strong>Frontend Developer</strong>
+- 🚀 &nbsp; Exploring and learning Electronic and Robotic using Arduino (C++) doing projects
+- 👨‍💻 &nbsp; Visit my [Portfolio](https://jeanrondon.is-a.dev) and this is my [CV](https://rxresu.me/jeandv/cv-jean-rondon)
 - 💬 &nbsp; Contact me here jeanrdev@gmail.com or [LinkedIn](https://linkedin.com/in/jeanrondon)
 
 ### Languages and Tools
