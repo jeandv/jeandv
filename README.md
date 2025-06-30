@@ -29,4 +29,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeandv&locale=es&hide_title=false&layout=compact&card_width=64&langs_count=15&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeandv&locale=es&hide_title=false&layout=compact&card_width=120&langs_count=15&theme=dark&hide_border=true" height="150" alt="languages graph"  />
