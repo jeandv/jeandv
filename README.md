@@ -18,8 +18,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="30" />
@@ -30,3 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" />
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeandv&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeandv&hide_progress=true)
