@@ -3,7 +3,7 @@
 - 🧑🏻‍💻 &nbsp; Visit my [Portfolio](https://jeanrondon.is-a.dev) and check out my [CV](https://rxresu.me/jeandv/cv-jean-rondon)
 - 💬 &nbsp; Contact me at jeanrdev@gmail.com or [LinkedIn](https://linkedin.com/in/jeanrondon)
 
-## Languages and Tools
+# Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
