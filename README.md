@@ -1,4 +1,4 @@
-- 🧑🏻‍💻 &nbsp; Currently working as a <strong>Frontend Developer</strong>
+- 🧑🏻‍💻 &nbsp; Working as a <strong>Frontend Developer</strong>
 - 🤖 &nbsp; Exploring Electronics and Robotics using Arduino (C++) by working on [projects](https://www.tinkercad.com/users/eC3q67K0OPz?type=circuits)
 - 💬 &nbsp; Contact me at jeanrdev@gmail.com or [LinkedIn](https://linkedin.com/in/jeanrondon)
 
