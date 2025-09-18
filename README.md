@@ -1,3 +1,5 @@
+<img width="1728" height="518" alt="Captura de pantalla 2025-09-18 a la(s) 3 38 44 a  m" src="https://github.com/user-attachments/assets/c4f9348b-b741-4415-b124-f0d53ccfe891" />
+
 - 🧑🏻‍💻 &nbsp; Working as a <strong>Frontend Developer</strong>
 - 🤖 &nbsp; Exploring Electronics and Robotics using Arduino (C++) by working on [projects](https://www.tinkercad.com/users/eC3q67K0OPz?type=circuits)
 - 💬 &nbsp; Contact me at jeanrdev@gmail.com or [LinkedIn](https://linkedin.com/in/jeanrondon)
