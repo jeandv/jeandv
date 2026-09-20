@@ -2,8 +2,9 @@
 
 ### About me
 
+I am a software and web developer with experience in frontend and fullstack development. I have been responsible for critical products, developing and maintaining a global project in the film entertainment industry that has enhanced the experience of millions of users. I have worked in both large and small team environments, for companies ranging from a dozen to hundreds of employees, following agile/Scrum development principles as a certified Scrum Master. I strive to find and implement elegant solutions to technical problems.
+
 - 🧑🏻‍💻 &nbsp; Working as a <strong>Frontend Developer</strong>
-- 🤖 &nbsp; Exploring Electronics and Robotics using Arduino (C++) by working on [projects](https://www.tinkercad.com/users/eC3q67K0OPz?type=circuits)
 - 💬 &nbsp; Contact me at jeanrdev@gmail.com or [LinkedIn](https://linkedin.com/in/jeanrondon)
 
 ### Skills
