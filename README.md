@@ -2,7 +2,7 @@
 
 ### About me
 
-I am a software and web developer with experience in frontend and fullstack development. I have been responsible for critical products, developing and maintaining a global project in the film entertainment industry that has enhanced the experience of millions of users. I have worked in both large and small team environments, for companies ranging from a dozen to hundreds of employees, I strive to find and implement elegant solutions to technical problems.
+Consistently passionate software developer who enjoys building projects from the initial idea to the final product to generate greater impact and give the best experience, 5 years doing what I love: creating digital experiences that delight users. 
 
 💬 &nbsp; Contact me at jeanrdev@gmail.com or [LinkedIn](https://linkedin.com/in/jeanrondon)
 
