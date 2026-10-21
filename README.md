@@ -6,4 +6,4 @@
 
 Consistently passionate software developer who enjoys building projects from the initial idea to the final product to generate greater impact and give the best experience, 5 years doing what I love: creating digital experiences that delight users. 
 
-💬 &nbsp; Contact me at jeanrdev@gmail.com - [Portflio](https://jeanrondon.dev) - [LinkedIn](https://linkedin.com/in/jeanrondon)
+💬 &nbsp; Contact me at jeanrdev@gmail.com - [Portfolio](https://jeanrondon.dev) - [LinkedIn](https://linkedin.com/in/jeanrondon)
