@@ -1,5 +1,5 @@
 <a href="https://jeanrondon3d.vercel.app">
-  <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/52d3bd9d-2a09-4e7a-8074-e542bd4aaa37" />
+  <img width="1918" height="777" alt="image" src="https://github.com/user-attachments/assets/b4f370e8-c439-499d-be5b-e7bd237d112a" />
 </a>
 
 ### About me
