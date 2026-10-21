@@ -1,4 +1,6 @@
-<a href="https://3d-text-jeandv.vercel.app"><img width="1728" height="518" alt="Captura de pantalla 2025-09-18 a la(s) 3 38 44 a  m" src="https://github.com/user-attachments/assets/c4f9348b-b741-4415-b124-f0d53ccfe891" /></a>
+<a href="https://jeanrondon3d.vercel.app">
+  <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/52d3bd9d-2a09-4e7a-8074-e542bd4aaa37" />
+</a>
 
 ### About me
 
