@@ -23,8 +23,6 @@ Consistently passionate software developer who enjoys building projects from the
   <!-- Testing -->
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cypress/white" alt="cypress" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Cloud -->
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Hardware -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </p>
